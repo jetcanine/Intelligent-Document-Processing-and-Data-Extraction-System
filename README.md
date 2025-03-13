@@ -1,4 +1,4 @@
-# AMAI_Exam_Group_Q
+# Intelligent Document Processing and Data Extraction System
 
 # Use the link below to open the Colab notebook 
 
